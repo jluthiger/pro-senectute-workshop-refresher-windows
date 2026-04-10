@@ -4,7 +4,7 @@ Willkommen zum Workshop rund um das Windows-Betriebssystem.
 
 ## Kursunterlagen
 
-Die Unterlagen finden Sie auf dieser [Website](https://jluthiger.github.io/pro-senectute-workshop-refresher-macos/).
+Die Unterlagen finden Sie auf dieser [Website](https://jluthiger.github.io/pro-senectute-workshop-refresher-windows/).
 
 ## Über den Workshop
 
