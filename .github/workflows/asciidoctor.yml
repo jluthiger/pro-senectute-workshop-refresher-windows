@@ -1,0 +1,31 @@
+name: Build and Deploy AsciiDoc Site
+
+on:
+  push:
+    branches: [ "main" ]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Install Asciidoctor
+        run: sudo apt-get install -y asciidoctor
+
+      - name: Build HTML from .adoc files
+        run: |
+          mkdir -p build
+          find docs -name "*.adoc" -exec asciidoctor -D build {} \;
+          cp build/kursprogramm.html build/index.html
+          cp docs/*.pdf build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build

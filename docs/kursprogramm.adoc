@@ -1,0 +1,266 @@
+= Windows 11 Refresher – Kursprogramm
+:author_1: Pro Senectute Luzern
+:author_2: Jürg Luthiger
+:revnumber: 1.0
+
+:lang: de
+:toc:
+:toc-title: Inhaltsverzeichnis
+:toclevels: 3
+:icons: font
+:experimental:
+:numbered:
+
+== Kursüberblick
+
+=== Zielgruppe
+
+Seniorinnen und Senioren mit Grundkenntnissen in Windows 11, die ihren PC noch sicherer und effizienter nutzen möchten.
+
+=== Lernziele
+
+Nach dem Kurs können die Teilnehmenden:
+
+* Den Datei-Explorer gezielt einsetzen und Ordnerstrukturen sinnvoll anlegen
+* Die Zwischenablage verwenden und Screenshots erstellen
+* PDF- und ZIP-Dateien öffnen, erstellen und bearbeiten
+* Programme selbstständig installieren
+* OneDrive optimal einsetzen und Dokumente teilen
+* Mit anderen Personen an Dokumenten zusammenarbeiten
+
+=== Voraussetzungen
+
+* Grundlagenkenntnisse Windows 11 (z. B. aus dem Grundkurs)
+* Eigener Windows-Laptop
+
+=== Zeitplan
+
+[cols="^1,4,^1", options="header"]
+|===
+| Tag | Inhalt | Zeit
+
+| *Tag 1*
+| Datei-Explorer, Ordnerstrukturen, Zwischenablage, Screenshots, PDF & ZIP
+| 09:00–12:00
+
+| *Tag 2*
+| Programme installieren, OneDrive, Dokumente teilen und gemeinsam bearbeiten
+| 09:00–12:00
+|===
+
+---
+
+== Tag 1 – Dateien und praktische Windows-Funktionen
+
+=== Begrüssung und Einführung (09:00–09:15)
+
+* Vorstellungsrunde: Name und Erwartungen
+* Kursüberblick: Was lernen wir heute und morgen?
+* Praktischer Hinweis: Ruhig Fragen stellen, es gibt kein «Zu-langsam»
+
+---
+
+=== Modul 1: Datei-Explorer und Ordnerstrukturen (09:15–10:30)
+
+==== Theorie: Datei-Explorer
+
+Der *Datei-Explorer* ist das zentrale Werkzeug zur Verwaltung von Dateien und Ordnern auf Ihrem PC.
+
+[TIP]
+====
+*Wichtige Begriffe:*
+
+* *Ordner:* Digitale «Mappe», die Dateien organisiert
+* *Datei:* Dokument, Bild, Video oder sonstiger Inhalt
+* *Pfad:* Die «Adresse» einer Datei auf dem Computer (z. B. `C:\Benutzer\Anna\Dokumente`)
+====
+
+==== Theorie: Sinnvolle Ordnerstruktur
+
+Eine gute Ordnerstruktur hilft, Dateien schnell wiederzufinden.
+
+[TIP]
+====
+*Bewährte Namensstrategien:*
+
+* Datum voranstellen: `2026-04-10_Rezept.docx`
+* Themen gruppieren: `Finanzen`, `Gesundheit`, `Fotos`
+* Keine Sonderzeichen oder Leerzeichen in Dateinamen
+====
+
+==== Praxis: Datei-Explorer erkunden
+
+. Datei-Explorer öffnen (kbd:[Win+E])
+. Eigene Ordnerstruktur ansehen: Dokumente, Bilder, Desktop
+. Neuen Ordner anlegen: Rechtsklick → «Neu» → «Ordner»
+. Datei umbenennen: Rechtsklick → «Umbenennen»
+. Datei verschieben per Drag-and-Drop
+
+---
+
+=== Pause (10:30–10:45)
+
+---
+
+=== Modul 2: Zwischenablage und Screenshots (10:45–11:30)
+
+==== Theorie: Zwischenablage
+
+Die *Zwischenablage* ist ein temporärer Speicher für kopierten Text, Bilder oder Dateien.
+
+[TIP]
+====
+*Wichtige Tastenkombinationen:*
+
+* kbd:[Ctrl+C] – Kopieren
+* kbd:[Ctrl+X] – Ausschneiden
+* kbd:[Ctrl+V] – Einfügen
+* kbd:[Win+V] – Zwischenablageverlauf öffnen (mehrere Elemente)
+====
+
+==== Theorie: Screenshots
+
+Mit Windows 11 können Sie ganz einfach Bildschirmfotos erstellen.
+
+[TIP]
+====
+*Screenshot-Methoden:*
+
+* kbd:[Win+Shift+S] – Ausschnitt frei wählen (Snipping Tool)
+* kbd:[Print] – Ganzen Bildschirm kopieren
+* kbd:[Win+Print] – Ganzen Bildschirm als Datei speichern (in «Bilder\Screenshots»)
+====
+
+==== Praxis: Zwischenablage und Screenshots
+
+. Text aus einem Dokument kopieren und woanders einfügen
+. Zwischenablageverlauf aktivieren und ausprobieren
+. Screenshot eines Fensters erstellen mit kbd:[Win+Shift+S]
+. Screenshot in einem Dokument einfügen
+
+---
+
+=== Modul 3: PDF- und ZIP-Dateien (11:30–12:00)
+
+==== Theorie: PDF-Dateien
+
+Das *PDF-Format* (Portable Document Format) ist ideal für Dokumente, die nicht verändert werden sollen.
+
+[TIP]
+====
+* PDF öffnen: Doppelklick öffnet es im Browser oder in Adobe Reader
+* PDF erstellen: In Word/Notepad «Drucken» → Drucker «Microsoft Print to PDF» wählen
+* PDF-Seiten zusammenführen: z. B. mit dem kostenlosen Online-Tool ilovepdf.com
+====
+
+==== Theorie: ZIP-Dateien
+
+*ZIP-Dateien* sind komprimierte Archive, die mehrere Dateien in einer einzigen Datei bündeln.
+
+[TIP]
+====
+* ZIP öffnen: Doppelklick, dann Dateien rausziehen (oder «Alle extrahieren»)
+* ZIP erstellen: Dateien markieren → Rechtsklick → «Komprimieren zu ZIP-Datei»
+====
+
+==== Praxis: PDF und ZIP
+
+. Dokument als PDF speichern («Drucken» → «Microsoft Print to PDF»)
+. ZIP-Datei entpacken
+. Mehrere Dateien zu einer ZIP-Datei zusammenfassen
+
+---
+
+== Tag 2 – Programme, OneDrive und Zusammenarbeit
+
+=== Begrüssung und Rückblick (09:00–09:15)
+
+* Kurze Wiederholung von Tag 1
+* Fragen beantworten
+
+---
+
+=== Modul 4: Programme installieren (09:15–10:15)
+
+==== Theorie: Programme installieren
+
+Neue Programme (Apps) können sicher aus dem *Microsoft Store* oder von vertrauenswürdigen Websites heruntergeladen werden.
+
+[TIP]
+====
+*Wichtige Hinweise:*
+
+* Bevorzugt den Microsoft Store verwenden (sicherer)
+* Bei Websites: Nur von bekannten, seriösen Anbietern herunterladen
+* Beim Installieren: Haken bei «Zusatzsoftware» entfernen
+====
+
+==== Praxis: Programme installieren und deinstallieren
+
+. Microsoft Store öffnen und eine App suchen (z. B. «VLC»)
+. App installieren
+. Installierte Programme anzeigen: Einstellungen → Apps → Installierte Apps
+. Programm deinstallieren
+
+---
+
+=== Pause (10:15–10:30)
+
+---
+
+=== Modul 5: OneDrive optimal einsetzen (10:30–11:15)
+
+==== Theorie: OneDrive
+
+*OneDrive* ist der Cloud-Speicher von Microsoft. Dateien in OneDrive sind auf allen Geräten verfügbar und automatisch gesichert.
+
+[TIP]
+====
+*Vorteile von OneDrive:*
+
+* Automatische Sicherung wichtiger Ordner (Dokumente, Bilder, Desktop)
+* Zugriff von überall (auch auf dem Smartphone)
+* Einfaches Teilen mit anderen Personen
+====
+
+==== Praxis: OneDrive einrichten und nutzen
+
+. OneDrive-Status prüfen (Symbol in der Taskleiste)
+. Ordner «Dokumente» in OneDrive öffnen
+. Datei in OneDrive speichern
+. OneDrive im Browser öffnen (onedrive.live.com)
+
+---
+
+=== Modul 6: Dokumente teilen und gemeinsam bearbeiten (11:15–12:00)
+
+==== Theorie: Dokumente teilen
+
+Mit OneDrive können Dokumente einfach mit anderen geteilt werden – ohne E-Mail-Anhang.
+
+[TIP]
+====
+*Freigabe-Optionen:*
+
+* «Kann bearbeiten» – andere können Änderungen vornehmen
+* «Kann anzeigen» – andere sehen das Dokument, können es aber nicht ändern
+* Link kopieren und per E-Mail oder WhatsApp verschicken
+====
+
+==== Theorie: Gemeinsam bearbeiten
+
+Mit *Microsoft 365* (Word Online, Excel Online) können mehrere Personen gleichzeitig am selben Dokument arbeiten.
+
+==== Praxis: Teilen und zusammenarbeiten
+
+. Dokument in OneDrive freigeben (Rechtsklick → «Teilen»)
+. Freigabe-Link erstellen und per E-Mail versenden
+. Dokument gemeinsam im Browser bearbeiten (Word Online)
+
+---
+
+=== Abschluss und Fragen (11:45–12:00)
+
+* Offene Fragen beantworten
+* Wichtigste Tipps zusammenfassen
+* Hinweis auf weitere Kurse und Ressourcen bei Pro Senectute
