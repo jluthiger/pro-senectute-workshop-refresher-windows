@@ -1,0 +1,83 @@
+= Übung Modul 5: OneDrive optimal einsetzen
+:lang: de
+:icons: font
+:experimental:
+
+== Szenario
+
+In Modul 3 haben Sie wichtige Unterlagen für Ihren Treuhänder vorbereitet.
+Nun wollen Sie sicherstellen, dass diese Dokumente nicht verloren gehen – auch wenn der Computer einmal ausfällt.
+Sie speichern die Dateien in OneDrive, damit sie automatisch gesichert und von überall zugänglich sind.
+
+== Vorbereitung
+
+Sie benötigen:
+
+* Die ZIP-Datei `Unterlagen-Steuern-2025.zip` aus Modul 3
+* Ein Microsoft-Konto mit aktivem OneDrive
+
+== Aufgaben
+
+=== Aufgabe 1: OneDrive-Status prüfen
+
+. Schauen Sie in die *Taskleiste* (unten rechts, neben der Uhr).
+. Suchen Sie das OneDrive-Symbol: eine weisse Wolke ☁.
+. Klicken Sie darauf und prüfen Sie den Status.
+
+[TIP]
+====
+* Weisse Wolke = alles synchronisiert ✓
+* Blaue Wolke = Synchronisation läuft
+* Rotes X = Fehler, bitte anklicken und Anweisung folgen
+====
+
+=== Aufgabe 2: OneDrive im Datei-Explorer öffnen
+
+. Öffnen Sie den Datei-Explorer mit kbd:[Win+E].
+. Klicken Sie links in der Seitenleiste auf *«OneDrive»*.
+. Sie sehen Ihre OneDrive-Ordner (Dokumente, Bilder usw.).
+
+=== Aufgabe 3: Neuen Ordner in OneDrive anlegen
+
+. Klicken Sie in OneDrive auf den Ordner *«Dokumente»*.
+. Rechtsklick in einen leeren Bereich → *«Neu»* → *«Ordner»*.
+. Benennen Sie den Ordner: `Treuhänder 2026`.
+
+=== Aufgabe 4: Datei in OneDrive kopieren
+
+. Navigieren Sie zur Datei `Unterlagen-Steuern-2025.zip` (in Dokumente → Unterlagen-Treuhänder-2026).
+. Rechtsklick → *«Kopieren»*.
+. Navigieren Sie zurück zu OneDrive → Dokumente → `Treuhänder 2026`.
+. Rechtsklick → *«Einfügen»*.
+
+[TIP]
+====
+Alternativ: Öffnen Sie zwei Datei-Explorer-Fenster und ziehen Sie die Datei per Drag-and-Drop in den OneDrive-Ordner.
+====
+
+=== Aufgabe 5: Synchronisation abwarten
+
+. Schauen Sie das OneDrive-Symbol in der Taskleiste an.
+. Warten Sie, bis die Wolke wieder weiss ist (Synchronisation abgeschlossen).
+. Die Datei im Ordner zeigt ein grünes Häkchen ✓.
+
+=== Aufgabe 6: Datei im Browser kontrollieren
+
+. Öffnen Sie den Browser und gehen Sie zu: `https://onedrive.live.com`
+. Melden Sie sich mit Ihrem Microsoft-Konto an (falls nötig).
+. Navigieren Sie zu *Dokumente* → *Treuhänder 2026*.
+. Prüfen Sie, ob `Unterlagen-Steuern-2025.zip` dort sichtbar ist.
+
+[TIP]
+====
+Wenn die Datei noch nicht erscheint: Warten Sie eine Minute und laden Sie die Seite neu (kbd:[F5]).
+====
+
+== Erfolgskontrolle
+
+Das haben Sie geschafft, wenn:
+
+* [x] Der Ordner `Treuhänder 2026` in OneDrive existiert
+* [x] Die Datei `Unterlagen-Steuern-2025.zip` im OneDrive-Ordner liegt
+* [x] Das OneDrive-Symbol in der Taskleiste ein grünes Häkchen zeigt
+* [x] Die Datei im Browser unter onedrive.live.com sichtbar ist
