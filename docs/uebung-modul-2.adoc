@@ -75,7 +75,7 @@ Klicken Sie darauf, um das Bild im Snipping Tool zu öffnen und zu speichern.
 . Drücken Sie kbd:[Ctrl+V].
 
 NOTE: Im einfachen Editor (Notepad) können keine Bilder eingefügt werden.
-Öffnen Sie stattdessen *WordPad* (kbd:[Win] → `WordPad` suchen) oder *Word*.
+Öffnen Sie stattdessen *Word* oder *Word Online* im Browser (https://word.new).
 
 . Speichern Sie das Dokument als `Kuchenrezept.rtf`.
 

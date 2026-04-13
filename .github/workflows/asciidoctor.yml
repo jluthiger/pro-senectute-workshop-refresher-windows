@@ -22,6 +22,7 @@ jobs:
           mkdir -p build
           find docs -name "*.adoc" -exec asciidoctor -D build {} \;
           cp build/kursprogramm.html build/index.html
+          cp -r docs/beispieldateien build/beispieldateien
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
