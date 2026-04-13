@@ -1,0 +1,80 @@
+= Übung Modul 4: Programme installieren
+:lang: de
+:icons: font
+:experimental:
+
+== Szenario
+
+Sie möchten am Computer Radio hören – zum Beispiel während Sie Dokumente bearbeiten.
+Im Microsoft Store gibt es dafür kostenlose Apps.
+In dieser Übung suchen Sie eine Radio-App, installieren sie, probieren sie kurz aus und deinstallieren sie anschliessend wieder.
+
+== Vorbereitung
+
+Kein Download nötig. Sie brauchen:
+
+* Eine aktive Internetverbindung
+* Ihr Microsoft-Konto (für den Store-Download)
+
+== Aufgaben
+
+=== Aufgabe 1: Microsoft Store öffnen
+
+. Drücken Sie kbd:[Win], tippen Sie `Microsoft Store` und drücken Sie kbd:[Enter].
+. Der Store öffnet sich.
+
+[TIP]
+====
+Alternativ: Klicken Sie auf das Store-Symbol in der Taskleiste (Einkaufstasche-Symbol).
+====
+
+=== Aufgabe 2: Radio-App suchen
+
+. Klicken Sie oben in das Suchfeld des Stores.
+. Tippen Sie `Radio` und drücken Sie kbd:[Enter].
+. Schauen Sie sich die Ergebnisse an.
+
+Wählen Sie eine der folgenden kostenlosen Apps:
+
+* *Simple Radio* – einfache Bedienung, viele Sender
+* *myTuner Radio* – grosse Senderauswahl
+
+=== Aufgabe 3: App installieren
+
+. Klicken Sie auf die gewählte App.
+. Lesen Sie kurz die Beschreibung und Bewertungen.
+. Klicken Sie auf *«Herunterladen»* oder *«Installieren»*.
+. Warten Sie, bis die Installation abgeschlossen ist.
+
+[TIP]
+====
+Falls Sie nach Ihrem Microsoft-Konto gefragt werden: Geben Sie die E-Mail-Adresse und das Passwort ein, mit dem Sie Windows nutzen.
+====
+
+=== Aufgabe 4: App öffnen und ausprobieren
+
+. Klicken Sie nach der Installation auf *«Öffnen»*.
+. Suchen Sie einen Schweizer Sender (z. B. *SRF 1* oder *Radio Pilatus*).
+. Hören Sie einen Moment zu.
+
+=== Aufgabe 5: App deinstallieren
+
+. Drücken Sie kbd:[Win] und öffnen Sie *Einstellungen* (Zahnrad-Symbol).
+. Gehen Sie zu *«Apps»* → *«Installierte Apps»*.
+. Suchen Sie in der Liste nach der Radio-App.
+. Klicken Sie auf die drei Punkte (⋯) rechts neben der App.
+. Wählen Sie *«Deinstallieren»* und bestätigen Sie.
+
+[TIP]
+====
+Alternativ: Rechtsklick auf die App im Startmenü → *«Deinstallieren»*.
+====
+
+== Erfolgskontrolle
+
+Das haben Sie geschafft, wenn:
+
+* [x] Sie eine Radio-App aus dem Microsoft Store installiert haben
+* [x] Sie erfolgreich einen Radiosender gehört haben
+* [x] Die App anschliessend vollständig deinstalliert wurde
+* [x] Die App nicht mehr in der Liste der installierten Apps erscheint
