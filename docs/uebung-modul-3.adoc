@@ -1,0 +1,82 @@
+= Übung Modul 3: PDF- und ZIP-Dateien
+:lang: de
+:icons: font
+:experimental:
+
+== Szenario
+
+Ihr Treuhänder benötigt Unterlagen für Ihre Steuererklärung.
+Er hat Sie gebeten, einen kurzen Brief sowie zwei Belege (Krankenkasse und Strom) als eine einzige ZIP-Datei per E-Mail zu schicken.
+In dieser Übung erstellen Sie den Brief als PDF und packen alles in ein ZIP-Archiv.
+
+== Vorbereitung
+
+Laden Sie die Übungsdateien von der Kurswebseite herunter:
+
+link:beispieldateien/kurs-dateien-modul3.zip[kurs-dateien-modul3.zip herunterladen]
+
+== Aufgaben
+
+=== Aufgabe 1: ZIP-Datei entpacken
+
+. Öffnen Sie den Datei-Explorer mit kbd:[Win+E].
+. Navigieren Sie in den *Downloads*-Ordner.
+. Doppelklick auf `kurs-dateien-modul3.zip`.
+. Klicken Sie auf *«Alle extrahieren»* → Zielordner bestätigen → *«Extrahieren»*.
+
+[TIP]
+====
+Merken Sie sich den Zielordner, damit Sie die Dateien später leicht wiederfinden.
+====
+
+=== Aufgabe 2: Brief in Word öffnen und personalisieren
+
+. Doppelklick auf `Brief-an-Treuhänder.docx`.
+. Ersetzen Sie `(Ihr Name)` durch Ihren eigenen Namen.
+. Speichern Sie das Dokument: kbd:[Ctrl+S].
+
+=== Aufgabe 3: Brief als PDF speichern
+
+. Klicken Sie in Word auf *«Datei»* → *«Drucken»*.
+. Wählen Sie als Drucker: *«Microsoft Print to PDF»*.
+. Klicken Sie auf *«Drucken»*.
+. Speichern Sie die PDF-Datei als `Brief-Treuhänder.pdf` im selben Ordner wie die anderen Belege.
+
+[TIP]
+====
+Falls *Microsoft Print to PDF* nicht erscheint: Klicken Sie auf den Drucker-Namen, um eine Liste aller verfügbaren Drucker zu sehen.
+====
+
+=== Aufgabe 4: Ordner für Unterlagen anlegen
+
+. Erstellen Sie in *Dokumente* einen neuen Ordner: `Unterlagen-Treuhänder-2026`.
+. Verschieben Sie folgende Dateien in diesen Ordner:
+** `Brief-Treuhänder.pdf`
+** `Beleg-Krankenkasse.pdf`
+** `Beleg-Strom.pdf`
+
+=== Aufgabe 5: ZIP-Datei erstellen
+
+. Öffnen Sie den Ordner `Unterlagen-Treuhänder-2026`.
+. Markieren Sie alle drei PDF-Dateien (kbd:[Ctrl+A]).
+. Rechtsklick → *«Komprimieren zu ZIP-Datei»*.
+. Benennen Sie die ZIP-Datei: `Unterlagen-Steuern-2025.zip`.
+
+[TIP]
+====
+Falls *«Komprimieren zu ZIP-Datei»* nicht erscheint, suchen Sie nach *«Senden an»* → *«ZIP-komprimierter Ordner»*.
+====
+
+=== Aufgabe 6: ZIP-Inhalt prüfen
+
+. Doppelklick auf `Unterlagen-Steuern-2025.zip`.
+. Prüfen Sie, ob alle drei PDF-Dateien darin enthalten sind.
+
+== Erfolgskontrolle
+
+Das haben Sie geschafft, wenn:
+
+* [x] Der Brief als `Brief-Treuhänder.pdf` gespeichert ist
+* [x] Der Ordner `Unterlagen-Treuhänder-2026` die drei PDF-Dateien enthält
+* [x] Die Datei `Unterlagen-Steuern-2025.zip` alle drei PDFs beinhaltet
+* [x] Die ZIP-Datei bereit ist, per E-Mail verschickt zu werden
