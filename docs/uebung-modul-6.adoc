@@ -1,0 +1,86 @@
+= Übung Modul 6: Dokumente teilen und gemeinsam bearbeiten
+:lang: de
+:icons: font
+:experimental:
+
+== Szenario
+
+Sie planen mit Ihrer Tochter einen Familienausflug.
+In Modul 1 haben Sie bereits die Datei `Packliste-Familie.docx` erhalten.
+Jetzt möchten Sie diese Packliste mit Ihrer Tochter teilen, damit sie ebenfalls Dinge ergänzen kann – und das ganz ohne E-Mail-Anhang.
+
+== Vorbereitung
+
+Sie benötigen:
+
+* Die Datei `Packliste-Familie.docx` aus Modul 1 (im Ordner `Claras Ferien 2026` oder Downloads)
+* OneDrive (eingerichtet aus Modul 5)
+* Ein Microsoft-Konto
+
+== Aufgaben
+
+=== Aufgabe 1: Packliste in OneDrive speichern
+
+. Öffnen Sie den Datei-Explorer mit kbd:[Win+E].
+. Navigieren Sie zur Datei `Packliste-Familie.docx`.
+. Kopieren Sie die Datei (Rechtsklick → *«Kopieren»*).
+. Navigieren Sie zu OneDrive → *Dokumente*.
+. Fügen Sie die Datei ein (Rechtsklick → *«Einfügen»*).
+. Warten Sie, bis das grüne Häkchen erscheint (Datei synchronisiert).
+
+[TIP]
+====
+Falls die Datei bereits in OneDrive liegt (z. B. im Ordner Dokumente), können Sie diesen Schritt überspringen.
+====
+
+=== Aufgabe 2: Dokument freigeben
+
+. Rechtsklick auf `Packliste-Familie.docx` im OneDrive-Ordner.
+. Wählen Sie *«Teilen»* (oder *«OneDrive-Freigabelink kopieren»*).
+. Es öffnet sich ein Fenster mit Freigabe-Einstellungen.
+
+=== Aufgabe 3: Freigabe-Einstellungen prüfen
+
+. Stellen Sie sicher, dass die Option *«Kann bearbeiten»* ausgewählt ist.
+. Klicken Sie auf *«Link kopieren»*.
+
+[TIP]
+====
+* *«Kann bearbeiten»* – Ihre Tochter kann Dinge hinzufügen und ändern.
+* *«Kann anzeigen»* – Ihre Tochter sieht das Dokument nur, kann aber nichts ändern.
+====
+
+=== Aufgabe 4: Link per E-Mail versenden (Übungsmodus)
+
+. Öffnen Sie Ihr E-Mail-Programm (z. B. Outlook oder Gmail im Browser).
+. Erstellen Sie eine neue E-Mail an sich selbst.
+. Fügen Sie den kopierten Link in den E-Mail-Text ein (kbd:[Ctrl+V]).
+. Schreiben Sie eine kurze Nachricht: _«Hier ist die Packliste für unseren Ausflug – bitte ergänze deine Wünsche!»_
+. Senden Sie die E-Mail.
+
+=== Aufgabe 5: Dokument in Word Online öffnen und bearbeiten
+
+. Öffnen Sie Ihre E-Mail und klicken Sie auf den Link.
+. Das Dokument öffnet sich im Browser in *Word Online*.
+. Fügen Sie am Ende der Packliste einen neuen Punkt hinzu (z. B. `Sonnenschutz LSF 50`).
+. Word Online speichert automatisch – kein manuelles Speichern nötig.
+
+[TIP]
+====
+Wenn Word Online fragt, ob Sie sich anmelden möchten: Melden Sie sich mit Ihrem Microsoft-Konto an, damit Ihre Änderungen gespeichert werden.
+====
+
+=== Aufgabe 6: Änderungen im Datei-Explorer prüfen
+
+. Wechseln Sie in den Datei-Explorer zu OneDrive → Dokumente.
+. Warten Sie einen Moment (Synchronisation).
+. Öffnen Sie `Packliste-Familie.docx` – Ihr neuer Eintrag sollte sichtbar sein.
+
+== Erfolgskontrolle
+
+Das haben Sie geschafft, wenn:
+
+* [x] `Packliste-Familie.docx` in OneDrive gespeichert und synchronisiert ist
+* [x] Ein Freigabelink erstellt und per E-Mail versendet wurde
+* [x] Das Dokument in Word Online geöffnet und bearbeitet wurde
+* [x] Die Änderung auch im Datei-Explorer sichtbar ist
