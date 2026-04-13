@@ -8,3 +8,4 @@ node_modules/
 *.bak
 *.swp
 *.swo
+tmp_build/

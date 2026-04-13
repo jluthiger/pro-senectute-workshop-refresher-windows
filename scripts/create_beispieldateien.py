@@ -9,7 +9,6 @@ import os
 import zipfile
 import requests
 from docx import Document
-from docx.shared import Pt
 from reportlab.pdfgen import canvas
 from reportlab.lib.pagesizes import A4
 
@@ -22,7 +21,7 @@ os.makedirs(TMP_DIR, exist_ok=True)
 
 # ── Modul 1: Ferienfotos + Packliste ──────────────────────────────────────────
 
-# Lizenzfreie CC0-Fotos von Unsplash (direkter Download via Unsplash Source)
+# Fotos von Unsplash (Unsplash License – kostenlose Nutzung für Workshop erlaubt)
 FOTOS = [
     ("Strand_Sonnenuntergang.jpg",  "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800&q=60"),
     ("Strand_Wellen.jpg",           "https://images.unsplash.com/photo-1519046904884-53103b34b206?w=800&q=60"),
