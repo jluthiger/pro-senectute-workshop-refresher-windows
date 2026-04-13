@@ -1,0 +1,95 @@
+= Übung Modul 1: Datei-Explorer und Ordnerstrukturen
+:lang: de
+:icons: font
+:experimental:
+
+== Szenario
+
+Ihre Enkelin Clara war in den Sommerferien unterwegs und hat Ihnen sechs Fotos geschickt.
+Alle Bilder sind bunt gemischt in Ihrem Download-Ordner gelandet.
+In dieser Übung legen Sie eine übersichtliche Ordnerstruktur an und sortieren die Fotos so, dass Sie sie später leicht wiederfinden.
+
+== Vorbereitung
+
+Laden Sie die Übungsdateien von der Kurswebseite herunter:
+
+link:beispieldateien/kurs-dateien-modul1.zip[kurs-dateien-modul1.zip herunterladen]
+
+== Aufgaben
+
+=== Aufgabe 1: ZIP-Datei entpacken
+
+. Öffnen Sie den Datei-Explorer mit kbd:[Win+E].
+. Navigieren Sie zu Ihrem *Downloads*-Ordner.
+. Machen Sie einen Doppelklick auf `kurs-dateien-modul1.zip`.
+. Klicken Sie auf *«Alle extrahieren»* und bestätigen Sie.
+
+[TIP]
+====
+Wenn Sie «Alle extrahieren» nicht sehen: Rechtsklick auf die ZIP-Datei → *«Alle extrahieren»*.
+====
+
+=== Aufgabe 2: Ordnerstruktur anlegen
+
+Erstellen Sie im Ordner *Dokumente* folgende Struktur:
+
+....
+Dokumente/
+└── Claras Ferien 2026/
+    ├── Strand/
+    ├── Berge/
+    └── Sonstiges/
+....
+
+. Öffnen Sie *Dokumente* im Datei-Explorer.
+. Rechtsklick in einen leeren Bereich → *«Neu»* → *«Ordner»*.
+. Tippen Sie `Claras Ferien 2026` und drücken Sie kbd:[Enter].
+. Öffnen Sie den neuen Ordner per Doppelklick.
+. Erstellen Sie darin drei Unterordner: `Strand`, `Berge`, `Sonstiges`.
+
+[TIP]
+====
+Mit kbd:[Ctrl+Shift+N] legen Sie direkt einen neuen Ordner an, ohne Rechtsklick.
+====
+
+=== Aufgabe 3: Fotos sortieren
+
+Verschieben Sie die 6 Fotos aus dem entpackten Ordner in die passenden Unterordner:
+
+* `Strand_Sonnenuntergang.jpg` → Ordner *Strand*
+* `Strand_Wellen.jpg` → Ordner *Strand*
+* `Berge_Panorama.jpg` → Ordner *Berge*
+* `Berge_Wanderweg.jpg` → Ordner *Berge*
+* `Altstadt_Gasse.jpg` → Ordner *Sonstiges*
+* `Markt_Fruechte.jpg` → Ordner *Sonstiges*
+
+Ziehen Sie jedes Foto per Drag-and-Drop in den richtigen Ordner.
+
+[TIP]
+====
+Öffnen Sie zwei Datei-Explorer-Fenster nebeneinander: Erstes Fenster mit den Fotos, zweites Fenster mit der Zielstruktur.
+Zweites Fenster öffnen: kbd:[Win+E] nochmals drücken.
+====
+
+=== Aufgabe 4: Datei umbenennen
+
+Das Foto `Markt_Fruechte.jpg` soll einen persönlicheren Namen bekommen.
+
+. Klicken Sie einmal auf `Markt_Fruechte.jpg`, um es auszuwählen.
+. Drücken Sie kbd:[F2].
+. Tippen Sie den neuen Namen: `Markt_Luzern.jpg`
+. Drücken Sie kbd:[Enter].
+
+[TIP]
+====
+Alternativ: Rechtsklick → *«Umbenennen»*.
+====
+
+== Erfolgskontrolle
+
+Das haben Sie geschafft, wenn:
+
+* [x] Im Ordner *Claras Ferien 2026* drei Unterordner vorhanden sind (`Strand`, `Berge`, `Sonstiges`)
+* [x] Jeder Unterordner genau die richtigen Fotos enthält
+* [x] Das Foto im Sonstiges-Ordner den neuen Namen `Markt_Luzern.jpg` trägt
+* [x] Die Datei `Packliste-Familie.docx` noch im entpackten Ordner liegt (wird in Modul 6 verwendet)
