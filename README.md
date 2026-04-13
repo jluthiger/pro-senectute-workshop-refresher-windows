@@ -12,5 +12,5 @@ In diesem Aufbaukurs vertiefen Sie Ihre Kenntnisse rund um Windows 11. Sie lerne
 
 ## Was sollten Sie mitbringen?
 
-- Ihr Windows-Laptop
+- Laptop mit Windows 11
 - Freude am Ausprobieren und Entdecken
