@@ -1,0 +1,89 @@
+= Übung Modul 2: Zwischenablage und Screenshots
+:lang: de
+:icons: font
+:experimental:
+
+== Szenario
+
+Beim Stöbern im Internet haben Sie ein wunderbares Rezept für einen Zitronenkuchen gefunden.
+Sie möchten den Rezepttext für sich speichern und einem Freund mitschicken.
+Dazu nutzen Sie die Zwischenablage und das Snipping Tool.
+
+== Vorbereitung
+
+Kein Download nötig. Sie brauchen:
+
+* Einen Webbrowser (z. B. Microsoft Edge)
+* Das Programm *Editor* (Notepad)
+
+Öffnen Sie diese Rezeptseite im Browser:
+`https://www.chefkoch.de` (beliebiges Rezept wählen)
+
+== Aufgaben
+
+=== Aufgabe 1: Rezeptname kopieren und einfügen
+
+. Öffnen Sie *Editor* (Notepad): kbd:[Win] drücken, `Editor` eintippen, Enter.
+. Wechseln Sie in den Browser und markieren Sie den *Titel des Rezepts*.
+. Drücken Sie kbd:[Ctrl+C] (Kopieren).
+. Wechseln Sie zurück in den Editor.
+. Drücken Sie kbd:[Ctrl+V] (Einfügen).
+
+[TIP]
+====
+Zwischen Fenstern wechseln: kbd:[Alt+Tab] — halten Sie kbd:[Alt] gedrückt und drücken Sie kbd:[Tab], um das gewünschte Fenster auszuwählen.
+====
+
+=== Aufgabe 2: Zutaten kopieren
+
+. Markieren Sie im Browser die *Zutatenliste* des Rezepts.
+. Drücken Sie kbd:[Ctrl+C].
+. Wechseln Sie in den Editor und klicken Sie ans Ende des Textes.
+. Drücken Sie kbd:[Enter] für eine neue Zeile, dann kbd:[Ctrl+V].
+
+=== Aufgabe 3: Zwischenablageverlauf nutzen
+
+. Drücken Sie kbd:[Win+V], um den Zwischenablageverlauf zu öffnen.
+. Falls er noch nicht aktiviert ist: Klicken Sie auf *«Aktivieren»*.
+. Kopieren Sie im Browser noch einen weiteren Textabschnitt (z. B. die Zubereitungsschritte).
+. Öffnen Sie erneut kbd:[Win+V] — Sie sehen jetzt mehrere Einträge.
+. Klicken Sie auf den ersten Eintrag (Rezepttitel), um ihn nochmals einzufügen.
+
+[TIP]
+====
+Der Zwischenablageverlauf speichert bis zu 25 kopierte Elemente.
+Sie können damit jederzeit auf ältere Kopien zurückgreifen.
+====
+
+=== Aufgabe 4: Screenshot erstellen
+
+. Wechseln Sie in den Browser mit dem Rezept.
+. Drücken Sie kbd:[Win+Shift+S].
+. Ziehen Sie mit der Maus einen Rahmen um das Rezeptbild und den Titel.
+. Der Screenshot wird in der Zwischenablage gespeichert.
+
+[TIP]
+====
+Nach dem Screenshot erscheint unten rechts eine Benachrichtigung.
+Klicken Sie darauf, um das Bild im Snipping Tool zu öffnen und zu speichern.
+====
+
+=== Aufgabe 5: Screenshot in den Editor einfügen
+
+. Wechseln Sie in den Editor.
+. Klicken Sie ans Ende des Textes.
+. Drücken Sie kbd:[Ctrl+V].
+
+NOTE: Im einfachen Editor (Notepad) können keine Bilder eingefügt werden.
+Öffnen Sie stattdessen *WordPad* (kbd:[Win] → `WordPad` suchen) oder *Word*.
+
+. Speichern Sie das Dokument als `Kuchenrezept.rtf`.
+
+== Erfolgskontrolle
+
+Das haben Sie geschafft, wenn:
+
+* [x] Rezeptname und Zutaten im Editor stehen
+* [x] Der Zwischenablageverlauf (kbd:[Win+V]) mindestens 2 Einträge zeigt
+* [x] Ein Screenshot des Rezepts erstellt wurde
+* [x] Das Dokument `Kuchenrezept.rtf` gespeichert ist
