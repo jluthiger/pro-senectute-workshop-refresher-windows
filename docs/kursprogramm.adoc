@@ -96,6 +96,12 @@ Eine gute Ordnerstruktur hilft, Dateien schnell wiederzufinden.
 . Datei umbenennen: Rechtsklick → «Umbenennen»
 . Datei verschieben per Drag-and-Drop
 
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-1.html[Übung Modul 1 öffnen] +
+*Download:* link:beispieldateien/kurs-dateien-modul1.zip[kurs-dateien-modul1.zip]
+====
+
 ---
 
 === Pause (10:30–10:45)
@@ -138,6 +144,11 @@ Mit Windows 11 können Sie ganz einfach Bildschirmfotos erstellen.
 . Screenshot eines Fensters erstellen mit kbd:[Win+Shift+S]
 . Screenshot in einem Dokument einfügen
 
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-2.html[Übung Modul 2 öffnen]
+====
+
 ---
 
 === Modul 3: PDF- und ZIP-Dateien (11:30–12:00)
@@ -168,6 +179,12 @@ Das *PDF-Format* (Portable Document Format) ist ideal für Dokumente, die nicht 
 . Dokument als PDF speichern («Drucken» → «Microsoft Print to PDF»)
 . ZIP-Datei entpacken
 . Mehrere Dateien zu einer ZIP-Datei zusammenfassen
+
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-3.html[Übung Modul 3 öffnen] +
+*Download:* link:beispieldateien/kurs-dateien-modul3.zip[kurs-dateien-modul3.zip]
+====
 
 ---
 
@@ -202,6 +219,11 @@ Neue Programme (Apps) können sicher aus dem *Microsoft Store* oder von vertraue
 . Installierte Programme anzeigen: Einstellungen → Apps → Installierte Apps
 . Programm deinstallieren
 
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-4.html[Übung Modul 4 öffnen]
+====
+
 ---
 
 === Pause (10:15–10:30)
@@ -230,6 +252,11 @@ Neue Programme (Apps) können sicher aus dem *Microsoft Store* oder von vertraue
 . Datei in OneDrive speichern
 . OneDrive im Browser öffnen (onedrive.live.com)
 
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-5.html[Übung Modul 5 öffnen]
+====
+
 ---
 
 === Modul 6: Dokumente teilen und gemeinsam bearbeiten (11:15–12:00)
@@ -256,6 +283,11 @@ Mit *Microsoft 365* (Word Online, Excel Online) können mehrere Personen gleichz
 . Dokument in OneDrive freigeben (Rechtsklick → «Teilen»)
 . Freigabe-Link erstellen und per E-Mail versenden
 . Dokument gemeinsam im Browser bearbeiten (Word Online)
+
+[NOTE]
+====
+*Übungsblatt:* link:uebung-modul-6.html[Übung Modul 6 öffnen]
+====
 
 ---
 
