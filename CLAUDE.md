@@ -40,11 +40,16 @@ Workshop spans 2 days (3 hours each, 09:00–12:00) and covers:
 
 ### Day 2
 
-#### Focus on "Programs, OneDrive and Collaboration"
+#### Focus on "Programs, OneDrive, Collaboration and AI"
 
 - Programme installieren (Microsoft Store, safe downloads, uninstall)
 - OneDrive einrichten und nutzen (cloud storage, automatic backup)
 - Dokumente teilen und gemeinsam bearbeiten (sharing links, Word Online co-editing)
+- KI sicher nutzen (Copilot as example, no personal data, placeholders, privacy settings, fact-checking)
+
+## Kursprogramm as Self-Study and Print Document
+
+`docs/kursprogramm.adoc` is the single document for class, self-study at home and printing (browser print, Ctrl+P). It pulls in every exercise sheet via `include::uebung-modul-N.adoc[leveloffset=+3]`; the sheets are also built standalone. `<<<` page breaks separate days and modules for print. Keep the document header free of blank lines, otherwise `:icons:`, `:toc:` and `:numbered:` stop working.
 
 ## License
 

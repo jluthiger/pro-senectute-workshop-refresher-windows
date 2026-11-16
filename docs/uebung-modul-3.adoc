@@ -76,7 +76,7 @@ Falls *«Komprimieren zu ZIP-Datei»* nicht erscheint, suchen Sie nach *«Senden
 
 Das haben Sie geschafft, wenn:
 
-* [x] Der Brief als `Brief-Treuhänder.pdf` gespeichert ist
-* [x] Der Ordner `Unterlagen-Treuhänder-2026` die drei PDF-Dateien enthält
-* [x] Die Datei `Unterlagen-Steuern-2025.zip` alle drei PDFs beinhaltet
-* [x] Die ZIP-Datei bereit ist, per E-Mail verschickt zu werden
+* [ ] Der Brief als `Brief-Treuhänder.pdf` gespeichert ist
+* [ ] Der Ordner `Unterlagen-Treuhänder-2026` die drei PDF-Dateien enthält
+* [ ] Die Datei `Unterlagen-Steuern-2025.zip` alle drei PDFs beinhaltet
+* [ ] Die ZIP-Datei bereit ist, per E-Mail verschickt zu werden

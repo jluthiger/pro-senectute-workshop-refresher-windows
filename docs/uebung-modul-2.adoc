@@ -83,7 +83,7 @@ NOTE: Im einfachen Editor (Notepad) können keine Bilder eingefügt werden.
 
 Das haben Sie geschafft, wenn:
 
-* [x] Rezeptname und Zutaten im Editor stehen
-* [x] Der Zwischenablageverlauf (kbd:[Win+V]) mindestens 2 Einträge zeigt
-* [x] Ein Screenshot des Rezepts erstellt wurde
-* [x] Das Dokument `Kuchenrezept.rtf` gespeichert ist
+* [ ] Rezeptname und Zutaten im Editor stehen
+* [ ] Der Zwischenablageverlauf (kbd:[Win+V]) mindestens 2 Einträge zeigt
+* [ ] Ein Screenshot des Rezepts erstellt wurde
+* [ ] Das Dokument `Kuchenrezept.rtf` gespeichert ist

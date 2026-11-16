@@ -80,7 +80,7 @@ Wenn Word Online fragt, ob Sie sich anmelden möchten: Melden Sie sich mit Ihrem
 
 Das haben Sie geschafft, wenn:
 
-* [x] `Packliste-Familie.docx` in OneDrive gespeichert und synchronisiert ist
-* [x] Ein Freigabelink erstellt und per E-Mail versendet wurde
-* [x] Das Dokument in Word Online geöffnet und bearbeitet wurde
-* [x] Die Änderung auch im Datei-Explorer sichtbar ist
+* [ ] `Packliste-Familie.docx` in OneDrive gespeichert und synchronisiert ist
+* [ ] Ein Freigabelink erstellt und per E-Mail versendet wurde
+* [ ] Das Dokument in Word Online geöffnet und bearbeitet wurde
+* [ ] Die Änderung auch im Datei-Explorer sichtbar ist

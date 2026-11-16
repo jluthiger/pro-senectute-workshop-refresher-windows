@@ -1,0 +1,104 @@
+= Übung Modul 7: KI sicher nutzen
+:lang: de
+:icons: font
+:experimental:
+
+== Szenario
+
+Sie planen Ferien im Tessin und möchten bei einem Hotel anfragen, ob ein ruhiges Doppelzimmer frei ist.
+Ein KI-Assistent soll Ihnen beim Formulieren helfen und Ideen für Ausflüge liefern.
+Dabei achten Sie darauf, dass keine persönlichen Daten in die KI gelangen.
+
+== Vorbereitung
+
+Sie benötigen:
+
+* Einen Browser (z. B. Microsoft Edge) mit Internetverbindung
+* Microsoft Copilot (Symbol in der Taskleiste oder im Browser unter copilot.microsoft.com)
+* Word oder ein anderes Textprogramm
+
+[WARNING]
+====
+*Diese Daten geben Sie nie in eine KI ein:*
+Name, Adresse, Telefonnummer, Geburtsdatum, AHV-Nummer, IBAN, Kreditkartennummer, Passwörter, Gesundheitsdaten – und keine Daten anderer Personen.
+====
+
+== Aufgaben
+
+=== Aufgabe 1: Copilot öffnen
+
+. Klicken Sie auf das *Copilot*-Symbol in der Taskleiste.
+. Falls das Symbol fehlt: Öffnen Sie den Browser und geben Sie `copilot.microsoft.com` in die Adresszeile ein.
+. Unten sehen Sie ein Eingabefeld – dort schreiben Sie Ihre Fragen und Aufträge.
+
+=== Aufgabe 2: Gut oder schlecht?
+
+Lesen Sie die beiden Aufträge. Welcher ist datenschutzfreundlich?
+
+* *A:* _«Schreibe eine Kündigung für meine Hausratversicherung, Police Nr. 4829104, für Hans Muster, Seestrasse 12, 6048 Horw.»_
+* *B:* _«Schreibe eine formelle Kündigung für eine Hausratversicherung zum nächstmöglichen Termin. Nutze Platzhalter wie [Name], [Adresse] und [Policennummer].»_
+
+[TIP]
+====
+Auftrag *B* ist richtig: Die KI erhält keine echten Daten.
+Das Ergebnis ist genauso gut – die echten Angaben setzen Sie später selbst ein.
+====
+
+=== Aufgabe 3: Hotel-Anfrage mit Platzhaltern schreiben lassen
+
+. Tippen Sie folgenden Auftrag in das Eingabefeld:
++
+_«Schreibe eine höfliche E-Mail an ein Hotel im Tessin. Ich möchte wissen, ob vom 14. bis 21. September ein ruhiges Doppelzimmer mit Seesicht frei ist und was es kostet. Nutze Platzhalter wie [Name] und [Telefonnummer].»_
+. Drücken Sie kbd:[Enter] und warten Sie auf die Antwort.
+. Lesen Sie den Text durch. Gefällt er Ihnen nicht, schreiben Sie z. B.: _«Bitte kürzer und etwas herzlicher.»_
+
+=== Aufgabe 4: Text nach Word kopieren und Platzhalter ersetzen
+
+. Markieren Sie den Text der E-Mail mit der Maus.
+. Kopieren Sie ihn mit kbd:[Ctrl+C].
+. Öffnen Sie Word und fügen Sie den Text mit kbd:[Ctrl+V] ein.
+. Ersetzen Sie die Platzhalter `[Name]` und `[Telefonnummer]` durch Ihre echten Angaben.
+. Speichern Sie das Dokument als `Hotel-Anfrage.docx` im Ordner `Claras Ferien 2026`.
+
+[TIP]
+====
+Ihre echten Daten stehen jetzt nur in Ihrem Word-Dokument – nicht in der KI.
+====
+
+=== Aufgabe 5: Ausflugsideen holen und Fakten prüfen
+
+. Wechseln Sie zurück zu Copilot und tippen Sie:
++
+_«Schlage mir drei leichte Ausflüge rund um Lugano vor, gut erreichbar mit öffentlichem Verkehr, ohne lange Wanderungen.»_
+. Wählen Sie einen Vorschlag aus (z. B. eine Bergbahn oder ein Museum).
+. Öffnen Sie einen neuen Browser-Tab (kbd:[Ctrl+T]) und suchen Sie die offizielle Website dieses Ausflugsziels.
+. Vergleichen Sie: Stimmen Öffnungszeiten und Preise mit den Angaben der KI überein?
+
+[WARNING]
+====
+KI-Assistenten liefern manchmal veraltete oder erfundene Angaben.
+Prüfen Sie Öffnungszeiten, Fahrpläne, Preise und Fristen immer auf der offiziellen Website.
+====
+
+=== Aufgabe 6: Datenschutz-Einstellungen ansehen
+
+. Klicken Sie in Copilot auf Ihr Profilsymbol bzw. auf das Menü *«Einstellungen»*.
+. Suchen Sie den Bereich *«Datenschutz»*.
+. Schalten Sie die Optionen zum *Modelltraining* (Training mit Ihren Unterhaltungen) aus.
+
+[TIP]
+====
+Die Bezeichnungen ändern sich gelegentlich und sind je nach KI-Dienst etwas anders.
+Suchen Sie nach Begriffen wie «Datenschutz», «Datenkontrolle» oder «Modelltraining».
+Ohne Anmeldung sind diese Einstellungen eventuell nicht sichtbar – fragen Sie in diesem Fall die Kursleitung.
+====
+
+== Erfolgskontrolle
+
+Das haben Sie geschafft, wenn:
+
+* [ ] Sie Copilot geöffnet und einen Auftrag eingegeben haben
+* [ ] Die Hotel-Anfrage mit Platzhaltern erstellt wurde
+* [ ] `Hotel-Anfrage.docx` mit Ihren echten Angaben im Ordner `Claras Ferien 2026` gespeichert ist
+* [ ] Sie eine Angabe der KI auf einer offiziellen Website überprüft haben
+* [ ] Sie wissen, wo die Datenschutz-Einstellungen zu finden sind

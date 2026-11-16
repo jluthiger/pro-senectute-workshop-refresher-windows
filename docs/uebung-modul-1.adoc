@@ -89,7 +89,7 @@ Alternativ: Rechtsklick → *«Umbenennen»*.
 
 Das haben Sie geschafft, wenn:
 
-* [x] Im Ordner *Claras Ferien 2026* drei Unterordner vorhanden sind (`Strand`, `Berge`, `Sonstiges`)
-* [x] Jeder Unterordner genau die richtigen Fotos enthält
-* [x] Das Foto im Sonstiges-Ordner den neuen Namen `Markt_Luzern.jpg` trägt
-* [x] Die Datei `Packliste-Familie.docx` noch im entpackten Ordner liegt (wird in Modul 6 verwendet)
+* [ ] Im Ordner *Claras Ferien 2026* drei Unterordner vorhanden sind (`Strand`, `Berge`, `Sonstiges`)
+* [ ] Jeder Unterordner genau die richtigen Fotos enthält
+* [ ] Das Foto im Sonstiges-Ordner den neuen Namen `Markt_Luzern.jpg` trägt
+* [ ] Die Datei `Packliste-Familie.docx` noch im entpackten Ordner liegt (wird in Modul 6 verwendet)

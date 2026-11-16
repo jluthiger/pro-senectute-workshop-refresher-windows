@@ -1,8 +1,7 @@
 = Windows 11 Refresher – Kursprogramm
 :author_1: Pro Senectute Luzern
 :author_2: Jürg Luthiger
-:revnumber: 1.0
-
+:revnumber: 1.1
 :lang: de
 :toc:
 :toc-title: Inhaltsverzeichnis
@@ -10,6 +9,7 @@
 :icons: font
 :experimental:
 :numbered:
+:kurs-url: https://jluthiger.github.io/pro-senectute-workshop-refresher-windows/
 
 == Kursüberblick
 
@@ -27,6 +27,7 @@ Nach dem Kurs können die Teilnehmenden:
 * Programme selbstständig installieren
 * OneDrive optimal einsetzen und Dokumente teilen
 * Mit anderen Personen an Dokumenten zusammenarbeiten
+* KI-Assistenten (z. B. Microsoft Copilot) im Alltag sinnvoll und datenschutzbewusst nutzen
 
 === Voraussetzungen
 
@@ -44,11 +45,93 @@ Nach dem Kurs können die Teilnehmenden:
 | 09:00–12:00
 
 | *Tag 2*
-| Programme installieren, OneDrive, Dokumente teilen und gemeinsam bearbeiten
+| Programme installieren, OneDrive, Dokumente teilen und gemeinsam bearbeiten, KI sicher nutzen
 | 09:00–12:00
 |===
 
----
+=== So arbeiten Sie mit dieser Unterlage
+
+Diese Unterlage begleitet Sie im Kurs und eignet sich auch zum *selbstständigen Arbeiten zu Hause* – zum Wiederholen oder wenn Sie einen Kurstag verpasst haben.
+
+Jedes Modul ist gleich aufgebaut:
+
+. *Theorie* – kurze Erklärung der wichtigsten Begriffe
+. *Praxis* – die Schritte im Überblick
+. *Übung* – eine Aufgabe mit genauer Schritt-für-Schritt-Anleitung und Erfolgskontrolle zum Abhaken
+
+Die Zeiten in Klammern hinter den Modultiteln gelten für den Kurs. Zu Hause bestimmen Sie Ihr Tempo selbst.
+
+==== Selbststudium zu Hause
+
+Arbeiten Sie die Module *in der angegebenen Reihenfolge* durch – einige Übungen bauen aufeinander auf.
+
+[cols="3,^1,3", options="header"]
+|===
+| Modul | Zeitbedarf | Das brauchen Sie
+
+| 1 – Datei-Explorer und Ordnerstrukturen
+| ca. 60 Min.
+| Übungsdateien `kurs-dateien-modul1.zip`
+
+| 2 – Zwischenablage und Screenshots
+| ca. 45 Min.
+| Internetverbindung
+
+| 3 – PDF- und ZIP-Dateien
+| ca. 40 Min.
+| Übungsdateien `kurs-dateien-modul3.zip`
+
+| 4 – Programme installieren
+| ca. 40 Min.
+| Internetverbindung, Microsoft-Konto
+
+| 5 – OneDrive
+| ca. 40 Min.
+| Microsoft-Konto, Ergebnis aus Modul 3
+
+| 6 – Dokumente teilen
+| ca. 40 Min.
+| Ergebnisse aus Modul 1 und 5
+
+| 7 – KI sicher nutzen
+| ca. 40 Min.
+| Internetverbindung, Ordner aus Modul 1
+|===
+
+[TIP]
+====
+*Tipps für das Lernen zu Hause:*
+
+* Nehmen Sie sich pro Tag höchstens ein bis zwei Module vor und machen Sie Pausen.
+* Lesen Sie zuerst die Theorie, lösen Sie dann die Übung am eigenen Laptop.
+* Haken Sie am Ende jeder Übung die Erfolgskontrolle ab.
+* Wiederholen Sie eine Übung nach einigen Tagen – so bleibt das Gelernte haften.
+====
+
+[NOTE]
+====
+*Wenn etwas nicht klappt:*
+
+* kbd:[Esc] schliesst die meisten Menüs und Fenster, ohne etwas zu verändern.
+* kbd:[Ctrl+Z] macht den letzten Schritt rückgängig (z. B. eine versehentlich verschobene Datei).
+* Sieht ein Fenster bei Ihnen etwas anders aus als beschrieben? Windows wird laufend aktualisiert – suchen Sie nach einem ähnlich lautenden Begriff.
+* Notieren Sie offene Fragen und bringen Sie diese in den Kurs mit.
+====
+
+==== Unterlage drucken
+
+Sie können diese Unterlage mit allen Übungen ausdrucken:
+
+. Öffnen Sie die Kurswebseite im Browser: {kurs-url}
+. Drücken Sie kbd:[Ctrl+P].
+. Wählen Sie Ihren Drucker – oder *«Microsoft Print to PDF»*, um die Unterlage als PDF-Datei zu speichern.
+. Klicken Sie auf *«Drucken»*.
+
+Jeder Kurstag und jedes Modul beginnt auf einer neuen Seite. Sie können also auch nur einzelne Module drucken (Seitenbereich im Druckdialog angeben).
+
+Die Übungsdateien (ZIP) finden Sie auf der Kurswebseite beim jeweiligen Modul.
+
+<<<
 
 == Tag 1 – Dateien und praktische Windows-Funktionen
 
@@ -98,15 +181,18 @@ Eine gute Ordnerstruktur hilft, Dateien schnell wiederzufinden.
 
 [NOTE]
 ====
-*Übungsblatt:* link:uebung-modul-1.html[Übung Modul 1 öffnen] +
-*Download:* link:beispieldateien/kurs-dateien-modul1.zip[kurs-dateien-modul1.zip]
+*Zeitbedarf zu Hause:* ca. 60 Minuten +
+*Übungsdateien:* link:beispieldateien/kurs-dateien-modul1.zip[kurs-dateien-modul1.zip] (auf der Kurswebseite) +
+*Übungsblatt einzeln:* link:uebung-modul-1.html[Übung Modul 1 öffnen]
 ====
+
+include::uebung-modul-1.adoc[leveloffset=+3]
 
 ---
 
 === Pause (10:30–10:45)
 
----
+<<<
 
 === Modul 2: Zwischenablage und Screenshots (10:45–11:30)
 
@@ -146,10 +232,13 @@ Mit Windows 11 können Sie ganz einfach Bildschirmfotos erstellen.
 
 [NOTE]
 ====
-*Übungsblatt:* link:uebung-modul-2.html[Übung Modul 2 öffnen]
+*Zeitbedarf zu Hause:* ca. 45 Minuten +
+*Übungsblatt einzeln:* link:uebung-modul-2.html[Übung Modul 2 öffnen]
 ====
 
----
+include::uebung-modul-2.adoc[leveloffset=+3]
+
+<<<
 
 === Modul 3: PDF- und ZIP-Dateien (11:30–12:00)
 
@@ -182,22 +271,25 @@ Das *PDF-Format* (Portable Document Format) ist ideal für Dokumente, die nicht 
 
 [NOTE]
 ====
-*Übungsblatt:* link:uebung-modul-3.html[Übung Modul 3 öffnen] +
-*Download:* link:beispieldateien/kurs-dateien-modul3.zip[kurs-dateien-modul3.zip]
+*Zeitbedarf zu Hause:* ca. 40 Minuten +
+*Übungsdateien:* link:beispieldateien/kurs-dateien-modul3.zip[kurs-dateien-modul3.zip] (auf der Kurswebseite) +
+*Übungsblatt einzeln:* link:uebung-modul-3.html[Übung Modul 3 öffnen]
 ====
 
----
+include::uebung-modul-3.adoc[leveloffset=+3]
 
-== Tag 2 – Programme, OneDrive und Zusammenarbeit
+<<<
 
-=== Begrüssung und Rückblick (09:00–09:15)
+== Tag 2 – Programme, OneDrive, Zusammenarbeit und KI
+
+=== Begrüssung und Rückblick (09:00–09:10)
 
 * Kurze Wiederholung von Tag 1
 * Fragen beantworten
 
 ---
 
-=== Modul 4: Programme installieren (09:15–10:15)
+=== Modul 4: Programme installieren (09:10–09:50)
 
 ==== Theorie: Programme installieren
 
@@ -221,16 +313,15 @@ Neue Programme (Apps) können sicher aus dem *Microsoft Store* oder von vertraue
 
 [NOTE]
 ====
-*Übungsblatt:* link:uebung-modul-4.html[Übung Modul 4 öffnen]
+*Zeitbedarf zu Hause:* ca. 40 Minuten +
+*Übungsblatt einzeln:* link:uebung-modul-4.html[Übung Modul 4 öffnen]
 ====
 
----
+include::uebung-modul-4.adoc[leveloffset=+3]
 
-=== Pause (10:15–10:30)
+<<<
 
----
-
-=== Modul 5: OneDrive optimal einsetzen (10:30–11:15)
+=== Modul 5: OneDrive optimal einsetzen (09:50–10:30)
 
 ==== Theorie: OneDrive
 
@@ -254,12 +345,19 @@ Neue Programme (Apps) können sicher aus dem *Microsoft Store* oder von vertraue
 
 [NOTE]
 ====
-*Übungsblatt:* link:uebung-modul-5.html[Übung Modul 5 öffnen]
+*Zeitbedarf zu Hause:* ca. 40 Minuten +
+*Übungsblatt einzeln:* link:uebung-modul-5.html[Übung Modul 5 öffnen]
 ====
+
+include::uebung-modul-5.adoc[leveloffset=+3]
 
 ---
 
-=== Modul 6: Dokumente teilen und gemeinsam bearbeiten (11:15–12:00)
+=== Pause (10:30–10:45)
+
+<<<
+
+=== Modul 6: Dokumente teilen und gemeinsam bearbeiten (10:45–11:20)
 
 ==== Theorie: Dokumente teilen
 
@@ -286,13 +384,116 @@ Mit *Microsoft 365* (Word Online, Excel Online) können mehrere Personen gleichz
 
 [NOTE]
 ====
-*Übungsblatt:* link:uebung-modul-6.html[Übung Modul 6 öffnen]
+*Zeitbedarf zu Hause:* ca. 40 Minuten +
+*Übungsblatt einzeln:* link:uebung-modul-6.html[Übung Modul 6 öffnen]
 ====
+
+include::uebung-modul-6.adoc[leveloffset=+3]
+
+<<<
+
+=== Modul 7: KI sicher nutzen (11:20–11:50)
+
+==== Theorie: KI als Assistent
+
+*KI-Assistenten* wie Microsoft Copilot, ChatGPT oder Google Gemini helfen bei Struktur, Ideen und Formulierungen.
+In Windows 11 ist *Copilot* bereits vorhanden (Symbol in der Taskleiste oder im Browser unter copilot.microsoft.com).
+
+[TIP]
+====
+*Sinnvolle Einsatzbereiche:*
+
+* *E-Mails und Briefe:* Stichworte eingeben und einen höflichen Text formulieren lassen (z. B. Reklamation, Anfrage an ein Hotel, Absage)
+* *Ferienplanung:* Reiserouten und Ausflugsideen entwerfen lassen
+* *Word-Dokumente:* Gliederungen erstellen, lange Texte zusammenfassen, Rechtschreibung und Stil prüfen
+* *Alltag:* Komplizierte Themen einfach erklären lassen
+====
+
+==== Theorie: Datenschutz – was nicht in die KI gehört
+
+Grundregel: Die KI ist ein kluger Assistent – aber sie erhält *keine persönlichen Daten*.
+Eingaben können gespeichert und zum Training der KI verwendet werden.
+
+[WARNING]
+====
+*Diese Daten niemals eingeben:*
+
+* *Identität:* Vollständiger Name, Adresse, Telefonnummer, E-Mail-Adresse, Geburtsdatum, AHV-Nummer
+* *Finanzen:* IBAN, Kreditkartennummer, Steuererklärung, Kontostand
+* *Zugangsdaten:* Passwörter, PINs, Bestätigungscodes
+* *Gesundheit und Recht:* Arztberichte, Diagnosen, Medikamentenpläne, vertrauliche Verträge
+* *Daten anderer Personen:* Namen, Fotos oder private E-Mails von Familie und Freunden
+====
+
+[TIP]
+====
+*So schützen Sie sich:*
+
+* *Platzhalter verwenden:* Statt echter Angaben `[Name]`, `[Adresse]`, `[Policennummer]` schreiben und die echten Daten erst in Word einsetzen
+* *Keine ganzen Dokumente hochladen:* Nur den benötigten Textabschnitt kopieren (kbd:[Ctrl+C] / kbd:[Ctrl+V]) – ohne Name und Adresse
+* *Einstellungen prüfen:* Im KI-Dienst unter «Datenschutz» das Training mit den eigenen Unterhaltungen ausschalten
+* *Fakten nachprüfen:* Öffnungszeiten, Zugverbindungen oder Fristen immer mit einer normalen Websuche kontrollieren – die KI kann sich irren
+====
+
+==== Praxis: KI ausprobieren
+
+. Copilot öffnen (Taskleiste oder copilot.microsoft.com)
+. Brief mit Platzhaltern formulieren lassen
+. Text nach Word kopieren und Platzhalter ersetzen
+. Ferienidee entwerfen lassen und eine Angabe per Websuche nachprüfen
+. Datenschutz-Einstellungen ansehen
+
+[NOTE]
+====
+*Zeitbedarf zu Hause:* ca. 40 Minuten +
+*Übungsblatt einzeln:* link:uebung-modul-7.html[Übung Modul 7 öffnen]
+====
+
+include::uebung-modul-7.adoc[leveloffset=+3]
 
 ---
 
-=== Abschluss und Fragen (11:45–12:00)
+=== Abschluss und Fragen (11:50–12:00)
 
 * Offene Fragen beantworten
 * Wichtigste Tipps zusammenfassen
 * Hinweis auf weitere Kurse und Ressourcen bei Pro Senectute
+
+<<<
+
+== Auf einen Blick
+
+=== Wichtige Tastenkombinationen
+
+[cols="1,3", options="header"]
+|===
+| Tasten | Funktion
+
+| kbd:[Win+E] | Datei-Explorer öffnen
+| kbd:[Ctrl+C] | Kopieren
+| kbd:[Ctrl+X] | Ausschneiden
+| kbd:[Ctrl+V] | Einfügen
+| kbd:[Win+V] | Zwischenablageverlauf öffnen
+| kbd:[Ctrl+Z] | Letzten Schritt rückgängig machen
+| kbd:[Win+Shift+S] | Screenshot eines Ausschnitts (Snipping Tool)
+| kbd:[Win+Print] | Ganzen Bildschirm als Datei speichern
+| kbd:[Alt+Tab] | Zwischen Fenstern wechseln
+| kbd:[Ctrl+P] | Drucken (auch «Microsoft Print to PDF»)
+| kbd:[Ctrl+T] | Neuen Browser-Tab öffnen
+| kbd:[Esc] | Menü oder Fenster schliessen
+|===
+
+=== KI-Merkregeln
+
+* Keine persönlichen Daten eingeben – Platzhalter wie `[Name]` verwenden.
+* Keine ganzen Dokumente hochladen – nur den benötigten Textabschnitt.
+* Angaben der KI auf der offiziellen Website nachprüfen.
+
+=== Meine Notizen
+
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +

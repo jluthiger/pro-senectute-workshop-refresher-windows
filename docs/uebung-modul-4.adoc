@@ -74,7 +74,7 @@ Alternativ: Rechtsklick auf die App im Startmenü → *«Deinstallieren»*.
 
 Das haben Sie geschafft, wenn:
 
-* [x] Sie eine Radio-App aus dem Microsoft Store installiert haben
-* [x] Sie erfolgreich einen Radiosender gehört haben
-* [x] Die App anschliessend vollständig deinstalliert wurde
-* [x] Die App nicht mehr in der Liste der installierten Apps erscheint
+* [ ] Sie eine Radio-App aus dem Microsoft Store installiert haben
+* [ ] Sie erfolgreich einen Radiosender gehört haben
+* [ ] Die App anschliessend vollständig deinstalliert wurde
+* [ ] Die App nicht mehr in der Liste der installierten Apps erscheint

@@ -77,7 +77,7 @@ Wenn die Datei noch nicht erscheint: Warten Sie eine Minute und laden Sie die Se
 
 Das haben Sie geschafft, wenn:
 
-* [x] Der Ordner `Treuhänder 2026` in OneDrive existiert
-* [x] Die Datei `Unterlagen-Steuern-2025.zip` im OneDrive-Ordner liegt
-* [x] Das OneDrive-Symbol in der Taskleiste ein grünes Häkchen zeigt
-* [x] Die Datei im Browser unter onedrive.live.com sichtbar ist
+* [ ] Der Ordner `Treuhänder 2026` in OneDrive existiert
+* [ ] Die Datei `Unterlagen-Steuern-2025.zip` im OneDrive-Ordner liegt
+* [ ] Das OneDrive-Symbol in der Taskleiste ein grünes Häkchen zeigt
+* [ ] Die Datei im Browser unter onedrive.live.com sichtbar ist
