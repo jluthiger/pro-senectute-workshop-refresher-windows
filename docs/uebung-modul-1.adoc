@@ -19,6 +19,12 @@ link:beispieldateien/kurs-dateien-modul1.zip[kurs-dateien-modul1.zip herunterlad
 
 === Aufgabe 1: ZIP-Datei entpacken
 
+[NOTE]
+====
+Eine *ZIP-Datei* ist ein Paket, das mehrere Dateien in einer einzigen Datei bündelt.
+Hier packen Sie es nur aus – wie ZIP-Dateien genau funktionieren und wie Sie selbst eine erstellen, lernen Sie in Modul 3.
+====
+
 . Öffnen Sie den Datei-Explorer mit kbd:[Win+E].
 . Navigieren Sie zu Ihrem *Downloads*-Ordner.
 . Machen Sie einen Doppelklick auf `kurs-dateien-modul1.zip`.

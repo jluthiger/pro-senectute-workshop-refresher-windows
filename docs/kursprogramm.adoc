@@ -194,7 +194,7 @@ include::uebung-modul-1.adoc[leveloffset=+3]
 
 <<<
 
-=== Modul 2: Zwischenablage und Screenshots (10:45–11:30)
+=== Modul 2: Zwischenablage und Screenshots (10:45–11:20)
 
 ==== Theorie: Zwischenablage
 
@@ -240,7 +240,7 @@ include::uebung-modul-2.adoc[leveloffset=+3]
 
 <<<
 
-=== Modul 3: PDF- und ZIP-Dateien (11:30–12:00)
+=== Modul 3: PDF- und ZIP-Dateien (11:20–12:00)
 
 ==== Theorie: PDF-Dateien
 

@@ -15,6 +15,7 @@ Kein Download nötig. Sie brauchen:
 
 * Einen Webbrowser (z. B. Microsoft Edge)
 * Das Programm *Editor* (Notepad)
+* *Word* (oder Word Online im Browser)
 
 Öffnen Sie diese Rezeptseite im Browser:
 `https://www.chefkoch.de` (beliebiges Rezept wählen)
@@ -68,16 +69,18 @@ Nach dem Screenshot erscheint unten rechts eine Benachrichtigung.
 Klicken Sie darauf, um das Bild im Snipping Tool zu öffnen und zu speichern.
 ====
 
-=== Aufgabe 5: Screenshot in den Editor einfügen
+=== Aufgabe 5: Screenshot in Word einfügen
 
-. Wechseln Sie in den Editor.
-. Klicken Sie ans Ende des Textes.
-. Drücken Sie kbd:[Ctrl+V].
+Der Editor kann nur Text aufnehmen, keine Bilder. Für den Screenshot verwenden Sie deshalb Word.
 
-NOTE: Im einfachen Editor (Notepad) können keine Bilder eingefügt werden.
-Öffnen Sie stattdessen *Word* oder *Word Online* im Browser (https://word.new).
+. Öffnen Sie *Word*: kbd:[Win] drücken, `Word` eintippen, Enter. Wählen Sie *«Leeres Dokument»*.
+. Drücken Sie kbd:[Ctrl+V] – der Screenshot erscheint im Dokument.
+. Speichern Sie das Dokument mit kbd:[Ctrl+S] als `Kuchenrezept.docx` im Ordner *Dokumente*.
 
-. Speichern Sie das Dokument als `Kuchenrezept.rtf`.
+[TIP]
+====
+Kein Word installiert? Öffnen Sie im Browser `https://word.new` – das ist Word Online (Microsoft-Konto nötig).
+====
 
 == Erfolgskontrolle
 
@@ -86,4 +89,4 @@ Das haben Sie geschafft, wenn:
 * [ ] Rezeptname und Zutaten im Editor stehen
 * [ ] Der Zwischenablageverlauf (kbd:[Win+V]) mindestens 2 Einträge zeigt
 * [ ] Ein Screenshot des Rezepts erstellt wurde
-* [ ] Das Dokument `Kuchenrezept.rtf` gespeichert ist
+* [ ] Das Dokument `Kuchenrezept.docx` mit dem Screenshot gespeichert ist
